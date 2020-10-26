@@ -1,0 +1,150 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: Helicopter#H4(8) registered to weather tower.
+
+round: 1
+Baloon#B1(1): A hedgehog comes out...
+Baloon#B2(2): It's Raining Men! Hallelujah!
+JetPlane#J1(3): That's it, I looked at the snow, you can remove it.
+Helicopter#H1(4): That's it, I looked at the snow, you can remove it.
+Helicopter#H2(5): It's Raining Men! Hallelujah!
+Helicopter#H3(6): That's it, I looked at the snow, you can remove it.
+Baloon#B3(7): A hedgehog comes out...
+Helicopter#H4(8): It's Raining Men! Hallelujah!
+
+round: 2
+Baloon#B1(1): It's Raining Men! Hallelujah!
+Baloon#B2(2): That's it, I looked at the snow, you can remove it.
+JetPlane#J1(3): A hedgehog comes out...
+Helicopter#H1(4): It's Raining Men! Hallelujah!
+Helicopter#H2(5): That's it, I looked at the snow, you can remove it.
+Helicopter#H3(6): The eye of Sauron is watching you!
+Baloon#B3(7): It's Raining Men! Hallelujah!
+Helicopter#H4(8): That's it, I looked at the snow, you can remove it.
+
+round: 3
+Baloon#B1(1): A hedgehog comes out...
+Baloon#B2(2): The eye of Sauron is watching you!
+JetPlane#J1(3): That's it, I looked at the snow, you can remove it.
+Helicopter#H1(4): It's Raining Men! Hallelujah!
+Helicopter#H2(5): It's Raining Men! Hallelujah!
+Helicopter#H3(6): The eye of Sauron is watching you!
+Baloon#B3(7): It's Raining Men! Hallelujah!
+Helicopter#H4(8): A hedgehog comes out...
+
+round: 4
+Baloon#B1(1): A hedgehog comes out...
+Baloon#B2(2): It's Raining Men! Hallelujah!
+JetPlane#J1(3): A hedgehog comes out...
+Helicopter#H1(4): That's it, I looked at the snow, you can remove it.
+Helicopter#H1(4) landing.
+Helicopter#H2(5): The eye of Sauron is watching you!
+Helicopter#H3(6): That's it, I looked at the snow, you can remove it.
+Baloon#B3(7): That's it, I looked at the snow, you can remove it.
+Helicopter#H4(8): It's Raining Men! Hallelujah!
+
+round: 5
+Baloon#B1(1): A hedgehog comes out...
+Baloon#B2(2): That's it, I looked at the snow, you can remove it.
+JetPlane#J1(3): It's Raining Men! Hallelujah!
+Helicopter#H2(5): That's it, I looked at the snow, you can remove it.
+Helicopter#H3(6): That's it, I looked at the snow, you can remove it.
+Baloon#B3(7): That's it, I looked at the snow, you can remove it.
+Baloon#B3(7) landing.
+Helicopter#H4(8): That's it, I looked at the snow, you can remove it.
+
+round: 6
+Baloon#B1(1): The eye of Sauron is watching you!
+Baloon#B2(2): The eye of Sauron is watching you!
+JetPlane#J1(3): A hedgehog comes out...
+Helicopter#H2(5): It's Raining Men! Hallelujah!
+Helicopter#H3(6): The eye of Sauron is watching you!
+Helicopter#H4(8): The eye of Sauron is watching you!
+
+round: 7
+Baloon#B1(1): A hedgehog comes out...
+Baloon#B2(2): The eye of Sauron is watching you!
+JetPlane#J1(3): A hedgehog comes out...
+Helicopter#H2(5): A hedgehog comes out...
+Helicopter#H3(6): The eye of Sauron is watching you!
+Helicopter#H4(8): It's Raining Men! Hallelujah!
+
+round: 8
+Baloon#B1(1): That's it, I looked at the snow, you can remove it.
+Baloon#B1(1) landing.
+Baloon#B2(2): The eye of Sauron is watching you!
+JetPlane#J1(3): A hedgehog comes out...
+Helicopter#H2(5): That's it, I looked at the snow, you can remove it.
+Helicopter#H3(6): The eye of Sauron is watching you!
+Helicopter#H4(8): A hedgehog comes out...
+
+round: 9
+Baloon#B2(2): A hedgehog comes out...
+JetPlane#J1(3): A hedgehog comes out...
+Helicopter#H2(5): The eye of Sauron is watching you!
+Helicopter#H3(6): That's it, I looked at the snow, you can remove it.
+Helicopter#H4(8): That's it, I looked at the snow, you can remove it.
+
+round: 10
+Baloon#B2(2): That's it, I looked at the snow, you can remove it.
+JetPlane#J1(3): It's Raining Men! Hallelujah!
+Helicopter#H2(5): A hedgehog comes out...
+Helicopter#H3(6): That's it, I looked at the snow, you can remove it.
+Helicopter#H3(6) landing.
+Helicopter#H4(8): A hedgehog comes out...
+
+round: 11
+Baloon#B2(2): That's it, I looked at the snow, you can remove it.
+JetPlane#J1(3): That's it, I looked at the snow, you can remove it.
+Helicopter#H2(5): That's it, I looked at the snow, you can remove it.
+Helicopter#H2(5) landing.
+Helicopter#H4(8): A hedgehog comes out...
+
+round: 12
+Baloon#B2(2): A hedgehog comes out...
+JetPlane#J1(3): That's it, I looked at the snow, you can remove it.
+Helicopter#H4(8): That's it, I looked at the snow, you can remove it.
+
+round: 13
+Baloon#B2(2): A hedgehog comes out...
+JetPlane#J1(3): It's Raining Men! Hallelujah!
+Helicopter#H4(8): The eye of Sauron is watching you!
+
+round: 14
+Baloon#B2(2): The eye of Sauron is watching you!
+JetPlane#J1(3): A hedgehog comes out...
+Helicopter#H4(8): That's it, I looked at the snow, you can remove it.
+Helicopter#H4(8) landing.
+
+round: 15
+Baloon#B2(2): A hedgehog comes out...
+JetPlane#J1(3): The eye of Sauron is watching you!
+
+round: 16
+Baloon#B2(2): That's it, I looked at the snow, you can remove it.
+Baloon#B2(2) landing.
+JetPlane#J1(3): That's it, I looked at the snow, you can remove it.
+JetPlane#J1(3) landing.
+
+round: 17
+
+round: 18
+
+round: 19
+
+round: 20
+
+round: 21
+
+round: 22
+
+round: 23
+
+round: 24
+
+round: 25
