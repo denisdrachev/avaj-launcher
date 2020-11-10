@@ -18,6 +18,7 @@ public abstract class Tower {
 
     public void unregister(Flyable flyable) {
         writeToFile(flyable + " landing.");
+        writeToFile("Tower says: " + flyable + " unregistered from weather tower.");
         removed.add(flyable);
     }
 

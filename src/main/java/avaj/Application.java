@@ -17,7 +17,7 @@ import static avaj.Printer.writeToConsole;
 
 public class Application {
 
-    private static int roundCound = 0;
+    private static int roundCount = 0;
 
     private static void deleteFile() throws IOException {
         try {
@@ -69,15 +69,19 @@ public class Application {
             flyable.registerTower(weatherTower);
         }
 
-        weatherTower.simulate(getRoundCound());
+        weatherTower.simulate(getRoundCount());
     }
 
     private static boolean filter(String line) throws IncorrectInputException {
         if (line.matches("^\\d+")) {
-            setRoundCound(Integer.parseInt(line));
+            try {
+                setRoundCount(Integer.parseInt(line));
+            } catch (Exception e) {
+                return true;
+            }
             return false;
         } else {
-            if (getRoundCound() <= 0)
+            if (getRoundCount() <= 0)
                 throw new IncorrectInputException("Incorrect input. First line incorrect!");
             String[] sArray = line.split(" ");
             if (sArray.length != 5)
@@ -113,8 +117,8 @@ public class Application {
         }
     }
 
-    public static int getRoundCound() {
-        return roundCound;
+    public static int getRoundCount() {
+        return roundCount;
     }
 
     public static void exitWithPrint(String text) {
@@ -122,8 +126,8 @@ public class Application {
         System.exit(0);
     }
 
-    public static void setRoundCound(int roundCound) {
-        Application.roundCound = roundCound;
+    public static void setRoundCount(int roundCount) {
+        Application.roundCount = roundCount;
     }
 }
 

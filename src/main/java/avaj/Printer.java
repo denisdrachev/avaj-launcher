@@ -12,7 +12,6 @@ public class Printer {
     private static Path path = Paths.get(outputFileName);
 
     public static void writeToFile(String s) {
-//        System.out.println(s);
         String str = s.concat("\n");
         byte[] strToBytes = str.getBytes();
         try {
